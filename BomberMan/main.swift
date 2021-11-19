@@ -7,5 +7,10 @@
 
 import Foundation
 
-print("Hello, World!")
+func bomberMan(n: Int, grid: [String]) -> [String] {
+     
+    return [""]
+}
+
+print(bomberMan(n: 3, grid: [".......", "...O...", "....O..", ".......", "OO.....", "OO....."]))
 
